@@ -27,7 +27,7 @@ const Port = () => {
 
             <Typography variant='h2' style={{color:'pink'}}>
                 <Typed strings={['Sheikh Mohammad Jabir Abdullah Al-Mamun']} 
-                typeSpeed = {10}/>
+                typeSpeed = {200}/>
             </Typography>
 
             <Typography variant='h3' style={{color:'GrayText'}}>
@@ -43,3 +43,4 @@ const Port = () => {
 }
  
 export default Port;
+
