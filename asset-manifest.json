@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8db18e33.chunk.css",
+    "main.js": "/portfolio/static/js/main.6bea0e02.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6bea0e02.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b535ba3d.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b535ba3d.js.map",
+    "static/js/2.4b01f8c1.chunk.js": "/portfolio/static/js/2.4b01f8c1.chunk.js",
+    "static/js/2.4b01f8c1.chunk.js.map": "/portfolio/static/js/2.4b01f8c1.chunk.js.map",
+    "static/js/3.7e20c7d6.chunk.js": "/portfolio/static/js/3.7e20c7d6.chunk.js",
+    "static/js/3.7e20c7d6.chunk.js.map": "/portfolio/static/js/3.7e20c7d6.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.8db18e33.chunk.css.map": "/portfolio/static/css/main.8db18e33.chunk.css.map",
+    "static/js/2.4b01f8c1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4b01f8c1.chunk.js.LICENSE.txt",
+    "static/media/jabir.63bf86ec.jpg": "/portfolio/static/media/jabir.63bf86ec.jpg",
+    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b535ba3d.js",
+    "static/js/2.4b01f8c1.chunk.js",
+    "static/css/main.8db18e33.chunk.css",
+    "static/js/main.6bea0e02.chunk.js"
+  ]
+}
